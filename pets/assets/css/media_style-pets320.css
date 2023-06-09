@@ -1,0 +1,94 @@
+@media (max-width:320px){
+
+   .wrapper {
+     max-width: 320px;
+   }
+   h2 {
+      font-size: 25px;
+      line-height: 32px;
+   }
+   .our-frends__header {
+      height: 64px;
+      width: 300px;
+      margin: 42px auto 0 auto;
+      font-size: 25px;
+      line-height: 32px;
+   }
+   .slider-wrap {
+      width: 310px;
+   }
+   .slider {   
+      width: 310px;
+   }
+  .switch {
+      width: 93.75%;
+      margin: 57px auto 42px auto
+   }
+   .footer__container {
+     height: 809px;
+   }
+   .footer__left {
+      flex-direction: column;
+      justify-content: space-between;
+      width: 93.75%;
+      height: 470px;
+   }
+   .contacts {
+      position: relative;
+      width: 100%;
+      height: auto;
+      margin: 0 auto ;
+   }
+   .contacts:last-child {
+     top: -90px;
+   }
+   .contacts-header {
+      width: 80%;
+      height: 64px;
+   font-size: 25px;
+   line-height: 32px;
+   letter-spacing: 0.06em;
+   text-align: center;
+   margin: 0 auto;
+   }
+   
+.mail {
+   display: block;
+   top: 44px;
+   padding-left: 83px;
+   width: 100%;
+}
+
+.mail:before {
+   top: -5px;
+   left: 7.9%;
+}
+.number {   
+   position: relative;
+   padding: 0 0 0 89px;
+   top: 93px;
+}
+.number:before {
+   top: -5px;
+   left: 11%;
+   }
+.location-1 {
+   top: 40px;
+}
+
+.location-1:before {
+   top: 7px;
+   }
+
+   .location-2 {
+      top: 84px;
+   }
+   .location-2:before {
+      top: -4px;
+      }
+.footer__ride {
+width: 82%;
+height: 269px;
+margin: 0 auto;
+}
+}
